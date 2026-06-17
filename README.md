@@ -1,4 +1,5 @@
-## Hi there 👋
+## Why hello there!
+# I'm Nina. I'm a university student studying Biology who's learning how to code with Python and R for the very first time! Wish me luck.
 
 <!--
 **Anin688/Anin688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
